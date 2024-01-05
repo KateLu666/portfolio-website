@@ -35,7 +35,7 @@ function HeroSection() {
           </p>
           <div>
             <button className="w-full sm:w-fit px-6 py-3 rounded-full mr-4 bg-gradient-to-br from-[#AC87C5] via-[#E0AED0] to-[#FFE5E5] text-white font-bold">
-              Hire Me
+              <a href="#contact">Hire Me</a>
             </button>
             <a
               href="/Kate_Lu_Resume.pdf"
